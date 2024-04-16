@@ -1,3 +1,3 @@
 Take a look
 
-https://jokas-null.github.io/Proyecto-final-web-1.github.io/
+https://jokas-null.github.io/Proyecto-final-web-1/
